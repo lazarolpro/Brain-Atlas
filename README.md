@@ -1,5 +1,5 @@
 # Brain-Atlas
-![Brain Atlas — Asistente Personal Inteligente para el Bienestar](Interfaz del prototipo local Brain Atlas en desarrollo.png)
+[Brain Atlas — Asistente Personal Inteligente para el Bienestar](Interfaz del prototipo local Brain Atlas en desarrollo.png)
 
 **Brain Atlas** es el cerebro digital que es el núcleo detrás de un proyecto experimental de desarrollo propio orientado a crear un asistente personal inteligente que facilite la organización del conocimiento, el seguimiento de hábitos y el acompañamiento cotidiano hacia un estilo de vida más saludable "Control-Health-Care".
 
