@@ -28,6 +28,10 @@ Su enfoque combina tecnología, gestión del conocimiento e inteligencia artific
 
 ### Estado del proyecto
 
+<p align="center">
+  <video src="TU_ENLACE_O_RUTA_DEL_VIDEO.mp4" width="80%" controls></video>
+</p>
+
 Prototipo funcional en desarrollo y validación personal. Las funcionalidades y los componentes continúan evolucionando a medida que se evalúan nuevas posibilidades de aplicación.
 
 ### Propósito
