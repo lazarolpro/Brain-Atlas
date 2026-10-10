@@ -29,7 +29,7 @@ Su enfoque combina tecnología, gestión del conocimiento e inteligencia artific
 ### Estado del proyecto
 
 Video Demo de Brain-Atlas: 
-https://github.com/lazarolpro/Brain-Atlas/blob/main/Video%20Brain%20Atlas.mp4
+[https://github.com/lazarolpro/Brain-Atlas/blob/main/Video%20Brain%20Atlas.mp4](https://github.com/lazarolpro/Brain-Atlas/blob/main/Video%20Brain%20Atlas.gif)
 
 Prototipo funcional en desarrollo y validación personal. Las funcionalidades y los componentes continúan evolucionando a medida que se evalúan nuevas posibilidades de aplicación.
 
